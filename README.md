@@ -3,5 +3,5 @@
 Tùy từng trường hợp mà dùng
 Lấy request cao thì dùng HEAD
 Cách dùng đồ chơi như sau:
-node HTTP-RAW.js https://domain.com/ <port> <threads> <methods>
+node HTTP-RAW.js https://domain.com/ port threads methods
 đéo có time đâu mà nhìn
